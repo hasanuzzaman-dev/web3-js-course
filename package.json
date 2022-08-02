@@ -1,0 +1,17 @@
+{
+  "name": "generate-abi-byte-code-web3js",
+  "version": "1.0.0",
+  "description": "This project is for Generation of ABI and Byte Code using web3js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "solc": "^0.8.15",
+    "web3": "^1.7.5"
+  }
+}
